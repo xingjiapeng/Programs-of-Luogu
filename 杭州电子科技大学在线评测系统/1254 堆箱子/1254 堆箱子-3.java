@@ -1,4 +1,5 @@
 //Create by zwd
+// http://acm.hdu.edu.cn/discuss/problem/post/reply.php?postid=21314&messageid=1&deep=0
 import java.util.ArrayDeque;
 import java.util.HashSet;
 import java.util.Queue;
