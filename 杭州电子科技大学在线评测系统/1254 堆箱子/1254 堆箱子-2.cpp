@@ -1,4 +1,5 @@
 //Create by zzti_吴高
+//http://acm.hdu.edu.cn/discuss/problem/post/reply.php?postid=3174&messageid=4&deep=2
 #define _CRT_SECURE_NO_DEPRECATE
 #include<iostream>
 #include<map>
