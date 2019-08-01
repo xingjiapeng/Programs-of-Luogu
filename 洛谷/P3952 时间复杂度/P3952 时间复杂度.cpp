@@ -124,8 +124,8 @@ int main(){
 				
 				updateTime(a.top(), b.top());
 				a.pop(); b.pop(); varName[v--] = 'a';
-			}
-            else{//k == 'F'
+				}
+            			else{//k == 'F'
             	
 				cin >> w >> l >> p;
 				
@@ -157,13 +157,13 @@ int main(){
 			
 		}
 		
-        if(!a.empty() || !flag){//判断是否有语法错误 ：少了E？ 以及前面是否有错误 
+        	if(!a.empty() || !flag){//判断是否有语法错误 ：少了E？ 以及前面是否有错误 
 			cout << "ERR\n"; 
-        	continue;
+        		continue;
 		}
         
-        if(geTime() == analyTime(t)) cout << "Yes\n";
-        else cout << "No\n";
+        	if(geTime() == analyTime(t)) cout << "Yes\n";
+        	else cout << "No\n";
         
 	}
 	
