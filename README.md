@@ -8,7 +8,7 @@
 
 **洛谷**
 
-https://www.luogu.org/
+https://www.luogu.com.cn/
 
 在洛谷文件夹中，我只放以P开头的题目，不放置其他题目，如CF(CodeForces)开头。
 
